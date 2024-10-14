@@ -5,10 +5,10 @@
 ### Задание 1
 
 ![task1](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/task%201.png)
-```
+
 Поле для вставки кода...
-....
-```
+![hsrp_advanced_my](https://github.com/Vasiliy-Ser/homework_9_01/blob/ae3cfdfd0ca9edbbb3ee0d7cd80fcc90bed60f87/img/hsrp_advanced_my.pkt)
+
 
 `При необходимости прикрепитe сюда скриншоты
 ![1](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/1.1.png)
@@ -20,12 +20,12 @@
 
 ![task1](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/task2.png)
 
-```
+
 Поле для вставки кода...
 
 ![check.sh](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/check.sh)
 ![keepalived.conf](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/keepalived.conf)
-```
+
 
 `При необходимости прикрепитe сюда скриншоты
 ![2](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/2.1.png)
