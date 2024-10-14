@@ -24,11 +24,14 @@
 Поле для вставки кода...
 
 ![check.sh](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/check.sh)
+
 ![keepalived.conf](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/keepalived.conf)
 
 
 `При необходимости прикрепитe сюда скриншоты
+
 ![2](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/2.1.png)
+
 ![3](https://github.com/Vasiliy-Ser/homework_9_01/blob/60e6abebf7d7802c9ece4b637c4660eb4995999c/img/2.2.png)
 
 
